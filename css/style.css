@@ -155,3 +155,15 @@ margin: 0;
   border-width: 0 2px 2px 0;
   transform: rotate(45deg);
 }
+
+h1{
+ text-align: center;
+ color: white;
+ margin-top: 30px;
+}
+
+h2{
+  text-align: center;
+ color: white;
+}
+
